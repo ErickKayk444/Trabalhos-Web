@@ -38,8 +38,7 @@ O servidor armazena e envia os dados do site.
 ### Protocolo
 HTTPS
 
-### Trecho HTML
-```html
+
 <h1>Resources for Developers</h1>
 Importância dos padrões da Web
 
