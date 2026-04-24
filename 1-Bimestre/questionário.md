@@ -37,23 +37,34 @@ O servidor armazena e envia os dados do site.
 
 ### Protocolo
 HTTPS
+## 4 — Pergunta de reflexão
 
+### Importância dos padrões da Web
 
-<h1>Resources for Developers</h1>
-Importância dos padrões da Web
-
-Os padrões da Web, como HTTP, HTML e DNS, são fundamentais porque definem regras comuns que permitem a comunicação entre diferentes sistemas na internet.
+Os padrões da Web, como **HTTP, HTML e DNS**, são fundamentais porque definem regras comuns que permitem a comunicação entre diferentes sistemas na internet.
 
 Sem esses padrões, cada sistema funcionaria de forma diferente, dificultando ou até impedindo o acesso aos sites.
 
-Como esses padrões ajudam no funcionamento
-HTTP: define como ocorre a comunicação entre navegador e servidor
-HTML: organiza a estrutura e o conteúdo das páginas
-DNS: traduz nomes de domínio em endereços IP
+---
+
+### Como esses padrões ajudam no funcionamento
+
+- **HTTP**: define como ocorre a comunicação entre navegador e servidor  
+- **HTML**: organiza a estrutura e o conteúdo das páginas  
+- **DNS**: traduz nomes de domínio em endereços IP  
 
 Esses padrões garantem que qualquer navegador consiga acessar qualquer site, independentemente do sistema ou tecnologia utilizada.
 
-Exemplos
-Um site criado com HTML pode ser aberto tanto no Chrome quanto no Firefox
-O DNS permite acessar google.com em vez de um número IP
-O HTTP garante que o navegador consiga solicitar e receber dados corretamente
+---
+
+### Exemplos
+
+- Um site criado com HTML pode ser aberto tanto no Chrome quanto no Firefox  
+- O DNS permite acessar `google.com` em vez de um número IP  
+- O HTTP garante que o navegador consiga solicitar e receber dados corretamente  
+
+---
+
+### Conclusão
+
+Graças à padronização, a Web funciona de forma global, permitindo que diferentes dispositivos, navegadores e servidores se comuniquem de maneira eficiente e confiável.
